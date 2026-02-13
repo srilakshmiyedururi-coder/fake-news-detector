@@ -1,0 +1,5 @@
+streamlit
+newspaper3k
+pandas
+scikit-learn
+numpy
